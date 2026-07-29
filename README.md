@@ -1,3 +1,17 @@
+
+<p align="center">
+  <img src="assets/banner.png" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Param Verma</h1>
+
+<h3 align="center">
+Cloud Computing Student • Linux Enthusiast • DevOps Learner • Home Lab Builder
+</h3>
+
+<p align="center">
+Building real-world Cloud, Linux and DevOps projects 🚀
+</p>
 ##  About Me
 
 I'm Param Verma, a BCA student passionate about Cloud Computing, Linux, and DevOps.
