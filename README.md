@@ -20,7 +20,6 @@ I enjoy building real-world infrastructure projects, self-hosted services, and a
 
 - 🖥️ Home Server Dashboard
 - 🤖 Friday AI Assistant
-- 🥛 Haryana Pride Dairy Website
 - ☁️ DevOps Lab
 
 ## 🎯 Career Goal
