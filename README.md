@@ -1,6 +1,32 @@
 # 💫 About Me:
-I’m currently working on Data Science & Machine Learning projects<br>I’m looking to collaborate on AI/ML and Data Analysis projects<br>I’m looking for help with Deep Learning & Model Deployment<br>I’m currently learning Python, Machine Learning, and Cloud Computing<br>Ask me about Python, Data Analysis, and ML basics<br>Fun fact: I love turning data into insights<br>
+## 👋 About Me
 
+I'm Param Verma, a BCA student passionate about Cloud Computing, Linux, and DevOps.
+
+I enjoy building real-world infrastructure projects, self-hosted services, and automation tools while continuously improving my Linux and cloud skills.
+
+## 🌱 Currently Learning
+
+- Linux Administration
+- Docker
+- Git & GitHub
+- Python
+- Django
+- AWS
+- Kubernetes
+- Terraform
+- CI/CD
+
+## 🚀 Current Projects
+
+- 🖥️ Home Server Dashboard
+- 🤖 Friday AI Assistant
+- 🥛 Haryana Pride Dairy Website
+- ☁️ DevOps Lab
+
+## 🎯 Career Goal
+
+Become a Cloud & DevOps Engineer by building production-ready projects and contributing to open source.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hK45U4vH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/param4verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/param-verma-0ab186361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paramvermaprofessional@gmail.com) 
