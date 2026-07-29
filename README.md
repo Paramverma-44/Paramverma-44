@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" />
+  <img src="assets/55a3148a17ba9402bfc413acb437fd42.jpg" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Param Verma</h1>
