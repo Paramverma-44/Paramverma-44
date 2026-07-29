@@ -26,17 +26,53 @@ I enjoy building real-world infrastructure projects, self-hosted services, and a
 
 Become a Cloud & DevOps Engineer by building production-ready projects and contributing to open source.
 
-##  Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/hK45U4vH) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/param4verma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/param-verma-0ab186361) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paramvermaprofessional@gmail.com) 
+## 🛠 Tech Stack
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Paramverma-44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Paramverma-44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramverma-44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Paramverma-44&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/param-verma-cloud)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Paramverma-44)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paramvermaprofessional@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Paramverma-44&theme=github_dark&show_icons=true&hide_border=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Paramverma-44&theme=github-dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramverma-44&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Paramverma-44&theme=darkhub&no-frame=true&margin-w=10)
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Paramverma-44&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+### 💡 Quote
+
+> **"Learn. Build. Break. Fix. Repeat."** 🚀
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
