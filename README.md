@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 About Me
 
 I'm Param Verma, a BCA student passionate about Cloud Computing, Linux, and DevOps.
