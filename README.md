@@ -43,6 +43,10 @@ I enjoy building real-world infrastructure projects, self-hosted services, and a
 
 Become a Cloud & DevOps Engineer by building production-ready projects and contributing to open source.
 
+<p align="center">
+  <img src="assets/code.png" width="100%" />
+</p>
+
 ## 🛠 Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
