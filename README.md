@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="assets/55a3148a17ba9402bfc413acb437fd42.jpg" width="100%" />
+  <img src="ironman.jpg" width="100%" />
 </p>
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF7F&center=true&vCenter=true&width=700&lines=Cloud+Computing+Student;Linux+Enthusiast;DevOps+Learner;Docker+%7C+Python+%7C+AWS;Building+Real-World+Projects" />
