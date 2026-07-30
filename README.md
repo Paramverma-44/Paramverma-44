@@ -69,12 +69,14 @@ Become a Cloud & DevOps Engineer by building production-ready projects and contr
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Paramverma-44&theme=github_dark&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paramverma-44&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Paramverma-44&theme=github-dark&hide_border=true" height="180"/>
+</p>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Paramverma-44&theme=github-dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Paramverma-44&layout=compact&theme=github_dark&hide_border=true)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paramverma-44&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 ---
 
 ## 🏆 GitHub Trophies
