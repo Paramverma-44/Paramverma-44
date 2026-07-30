@@ -81,8 +81,9 @@ Become a Cloud & DevOps Engineer by building production-ready projects and contr
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Paramverma-44&theme=darkhub&no-frame=true&margin-w=10)
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Paramverma-44&theme=darkhub&no-frame=true&margin-w=10"/>
+</p>
 ---
 
 ## 👀 Profile Views
